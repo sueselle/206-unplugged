@@ -164,6 +164,7 @@ header .content-wrapper {
 }
 header figure {
   width: 60%;
+  margin-left: 0;
 }
 
 .header-divider {
